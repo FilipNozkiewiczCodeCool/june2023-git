@@ -5,4 +5,4 @@ def print_menu():
     print("menu")
 
 
-print("zrobiłem zmiane")
+print("zrobiłaaaaem zmiane")
